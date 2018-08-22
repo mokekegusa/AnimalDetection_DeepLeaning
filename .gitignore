@@ -1,0 +1,7 @@
+images/
+key.json
+photos.npy
+.idea
+*.pyc
+*.pyo
+__pycache__
